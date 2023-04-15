@@ -1,0 +1,15 @@
+package loops;
+
+import java.util.Iterator;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// For
+		for (int i = 0; i < 10; i++) {
+			System.out.println("step by step value of i : " + i);
+		}
+		
+	}
+
+}
