@@ -1,8 +1,23 @@
 package classesWithAttributes;
 
-public class product {
+public class Product {
 	// attribute or field of products\
 	// single responsibility
+	
+	public Product () {
+		// default constructer
+		// first this block run
+		// like __init__ from python 
+	}
+	
+	public Product (int id, String name, String describtion, double price, String productCode) {
+		// constructer with parameter 
+		this.id = id;
+		this.name = name;
+		this.describtion = describtion;
+		this.price = price;
+		this.productCode = productCode;
+	}
 	
 	int id;
 	String name;

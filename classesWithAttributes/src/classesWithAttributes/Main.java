@@ -3,7 +3,7 @@ package classesWithAttributes;
 public class Main {
 
 	public static void main(String[] args) {
-		product product1 = new product();
+		Product product1 = new Product();
 		product1.name = "Monster";
 		product1.price = 17.000;
 		
