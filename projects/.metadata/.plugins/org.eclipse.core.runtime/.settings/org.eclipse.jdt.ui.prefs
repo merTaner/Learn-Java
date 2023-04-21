@@ -1,0 +1,15 @@
+content_assist_autoactivation=true
+content_assist_autoactivation_triggers_java=._@abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="classes.CustomerManager"><rhs name\="classes.CustomerManager"/></lhs><lhs name\="classesWithAttributes.product"><rhs name\="classesWithAttributes.product"/></lhs><lhs name\="classesWithAttributes.productManager"><rhs name\="classesWithAttributes.productManager"/></lhs><lhs name\="inheritanceDemo.BaseKrediManager"><rhs name\="inheritanceDemo.BaseKrediManager"/><rhs name\="inheritanceDemo.teacherKrediManager"/><rhs name\="inheritanceDemo.farmerKrediManager"/></lhs><lhs name\="inheritanceDemo.teacherKrediManager"><rhs name\="inheritanceDemo.teacherKrediManager"/></lhs><lhs name\="inheritanceDemo.KrediUI"><rhs name\="inheritanceDemo.KrediUI"/></lhs><lhs name\="polimorphismDemo.BaseCreditManager"><rhs name\="polimorphismDemo.TeacherCredit"/><rhs name\="polimorphismDemo.BaseCreditManager"/></lhs><lhs name\="polimorphismDemo.TeacherCredit"><rhs name\="polimorphismDemo.TeacherCredit"/></lhs><lhs name\="abstractClass.CustomerManager"><rhs name\="abstractClass.CustomerManager"/></lhs><lhs name\="abstractClass.BaseDatabaseManager"><rhs name\="abstractClass.OracleDatabaseManager"/><rhs name\="abstractClass.SqlServerDatabaseManager"/></lhs><lhs name\="interfaces.CustomerManager"><rhs name\="interfaces.CustomerManager"/></lhs><lhs name\="interfaces.ICustomerDal"><rhs name\="interfaces.OracleDatabase"/><rhs name\="interfaces.MySqlDatabase"/></lhs></history>
+content_assist_number_of_computers=12
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.exception.name=e
+org.eclipse.jdt.ui.formatterprofiles.version=22
+org.eclipse.jdt.ui.gettersetter.use.is=true
+org.eclipse.jdt.ui.overrideannotation=true
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
